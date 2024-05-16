@@ -1,4 +1,5 @@
 import streamlit as st
+conda activate conda_matplotlib.pyplot
 import matplotlib.pyplot as plt
 import numpy as np
 
